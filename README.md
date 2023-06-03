@@ -1,6 +1,4 @@
-# ZkSync [Era、Lite]网络批量刷空投脚本(ZkSync [Era, Lite] Network Batch Airdrop Script)
-
-## 全网最强zkSync交互攻略(附撸毛神器，撸毛脚本), 搞起来!!!
+# BE carefore 因为这个脚本得依赖库据多人检验有问题，已经删 npm受怀疑依赖库web3js 跑路
 
 <p align="left">
 <a href="./README.md">简体中文</a> ||   <a href="./README.en.md">English</a>
